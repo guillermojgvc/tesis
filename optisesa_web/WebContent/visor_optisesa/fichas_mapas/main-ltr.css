@@ -1,0 +1,476 @@
+html, 
+/* estilo para el cuerpo de la página */
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	font-size: 1em;
+}
+body {
+	background-color: #f3f3f3;
+	/*background-image: url(images/page-base.png?1);*/
+}
+/* Contenido de la página */
+#content {
+	margin-left: 1em;
+	padding: 1em;
+	/*background-image: url(images/border.png?1);*/
+	background-position: top left;
+	background-repeat: repeat-y;
+	background-color: white;
+	color: black;
+        width: 90%;
+}
+/* Estilos Footer */
+#footer {
+	margin-left: 10em;
+	margin-top: 0;
+	padding: 0.75em;
+	background-image: url(images/border.png?1);
+	background-position: top left;
+	background-repeat: repeat-x;
+}
+#footer ul {
+	list-style: none;
+	list-style-image: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#footer ul li {
+	margin: 0;
+	padding: 0;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	color: #333333;
+	font-size: 0.7em;
+}
+#footer #footer-icons {
+	float: right;
+}
+/* @noflip */
+body.ltr #footer #footer-places {
+	float: left;
+}
+#footer #footer-info li {
+	line-height: 1.4em;
+}
+#footer #footer-icons li {
+	float: left;
+	margin-left: 0.5em;
+	line-height: 2em;
+}
+#footer #footer-places li {
+	float: left;
+	margin-right: 1em;
+	line-height: 2em;
+}
+#content {
+	line-height: 1.5em;
+}
+#bodyContent {
+	font-size: 0.8em;
+        width: 50%;
+}
+/* Links dentro de la página */
+a {
+	text-decoration: none;
+	color: #0645ad;
+	background: none;
+}
+a:visited {
+	color: #0b0080;
+}
+a:active {
+	color: #faa700;
+}
+a:hover {
+	text-decoration: underline;
+}
+a.stub {
+	color: #772233;
+}
+a.new, #p-personal a.new {
+	color: #ba0000;
+}
+a.new:visited, #p-personal a.new:visited {
+	color: #a55858;
+}
+/* elementos en linea */
+img {
+	border: none;
+	vertical-align: middle;
+}
+hr {
+	height: 1px;
+	color: #aaa;
+	background-color: #aaa;
+	border: 0;
+	margin: .2em 0 .2em 0;
+}
+/* elementos estructurales */
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	background: none;
+	font-weight: normal;
+	margin: 0;
+	padding-top: .5em;
+	padding-bottom: .17em;
+	border-bottom: 1px solid #aaa;
+	width: auto;
+}
+h1 {
+	font-size: 188%;
+}
+h1 .editsection {
+	font-size: 53%;
+}
+h2 {
+	font-size: 150%;
+}
+h2 .editsection {
+	font-size: 67%;
+}
+h3, h4, h5, h6 {
+	border-bottom: none;
+	font-weight: bold;
+}
+h3 {
+	font-size: 132%;
+}
+h3 .editsection {
+	font-size: 76%;
+	font-weight: normal;
+}
+h4 {
+	font-size: 116%;
+}
+h4 .editsection {
+	font-size: 86%;
+	font-weight: normal;
+}
+h5 {
+	font-size: 100%;
+}
+h5 .editsection {
+	font-weight: normal;
+}
+h6 {
+	font-size: 80%;
+}
+h6 .editsection {
+	font-size: 125%;
+	font-weight: normal;
+}
+p {
+	margin: .4em 0 .5em 0;
+	line-height: 1.5em;
+	text-align:justify;
+	font-family: sans-serif;
+}
+p img {
+	margin: 0;
+}
+abbr, acronym, .explain {
+	border-bottom: 1px dotted black;
+	color: black;
+	background: none;
+	cursor: help;
+}
+q {
+	font-family: Times, "Times New Roman", serif;
+	font-style: italic;
+}
+pre, code, tt {
+	/*
+	 * It's important for this rule to first reference aún actual font name, some browsers will render the monospace text
+	 * too small otherwise, namely Firefox, Chrome and Safari
+	 */
+	font-family: monospace, "Courier New";
+}
+code {
+	background-color: #f9f9f9;
+}
+pre, .pie {
+	padding: 1em;
+	border: 1px dashed #2f6fab;
+	color: black;
+	background-color: #f9f9f9;
+	line-height: 1.1em;
+}
+
+#corp{
+    background-color: #f9f9f9;
+    border: 1px dashed #2f6fab;
+   font-family: monospace, "Courier New"; 
+}
+ul {
+	line-height: 1em;
+	list-style-type: square;
+	margin: .3em 0 0 1.5em;
+	padding: 0;
+	/*list-style-image: url(images/bullet-icon.png?1);*/
+}
+ol {
+	line-height: 1.5em;
+	margin: .3em 0 0 3.2em;
+	padding: 0;
+	list-style-image: none;
+}
+li {
+	margin-bottom: .1em;
+}
+dt {
+	font-weight: bold;
+	margin-bottom: .1em;
+}
+dl {
+	margin-top: .2em;
+	margin-bottom: .5em;
+}
+dd {
+	line-height: 1.5em;
+	margin-left: 2em;
+	margin-bottom: .1em;
+}
+/* Tables */
+table {
+	font-size: 100%;
+	color: black;
+	/* we don't want the bottom borders of <h2>s to be visible through
+	 * floated tables */
+	background-color: white;
+        width: 80%;
+}
+fieldset table {
+	/* but keep table layouts in formás clean... */
+	background: none;
+}
+/* Tabla de contenidos */
+#tabla sis_sec_sub, .tab_sis_sec_sub, .mw-warning {
+	border: 1px solid #aaa;
+	background-color: #f9f9f9;
+	empty-cells: hide;
+	border-collapse: collapse;
+	font-size: 95%;
+	padding: 0px;
+	CellPad: 0px;
+	empty-cells:show;
+	cellspace: 0px;/* Tabla de contenidos 	
+	padding: 0px;*/
+        width: 80%;
+}
+/* Tabla de contenidos */
+#toc, .toc, .mw-warning {
+	border: 1px solid #aaa;
+	background-color: #f9f9f9;
+	padding: 0px;
+	font-size: 95%;
+}
+#toc h2, .toc h2 {
+	display: inline;
+	border: none;
+	padding: 0;
+	font-size: 100%;
+	font-weight: bold;
+}
+#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle {
+	text-align: center;
+}
+#toc ul, .toc ul {
+	list-style-type: none;
+	list-style-image: none;
+	margin-left: 0;
+	padding-left: 0;
+	text-align: left;
+}
+#toc ul ul, .toc ul ul {
+	margin: 0 0 0 2em;
+}
+#toc .toctoggle, .toc .toctoggle {
+	font-size: 94%;
+}
+/* Imagenes */
+div.floatright, table.floatright {
+	clear: right;
+	float: right;
+	position: relative;
+	margin: 0 0 .5em .5em;
+	border: 0;
+}
+div.floatright p {
+	font-style: italic;
+}
+div.floatleft, table.floatleft {
+	float: left;
+	clear: left;
+	position: relative;
+	margin: 0 .5em .5em 0;
+	border: 0;
+}
+div.floatleft p {
+	font-style: italic;
+}
+/* alinear a la derecha */
+div.tright {
+	clear: right;
+	float: right;
+	border-width: .5em 0 .8em 1.4em;
+}
+/* alinear a la izquierda */
+div.tleft {
+	float: left;
+	clear: left;
+	margin-right: .5em;
+	border-width: .5em 1.4em .8em 0;
+}
+img.thumbborder {
+	border: 1px solid #dddddd;
+}
+.hiddenStructure {
+	display: none;
+}
+/* Warning */
+.mw-warning {
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center;
+}
+/* Emulate Center */
+.center {
+	width: 100%;
+	text-align: center;
+}
+*.center * {
+	margin-left: auto;
+	margin-right: auto;
+}
+/* Small for tables and similar */
+.small, .small * {
+	font-size: 94%;
+}
+table.small {
+	font-size: 100%;
+}
+/* Edge Cases for Content */
+h1, h2 {
+	margin-bottom: .6em;
+}
+h3, h4, h5 {
+	margin-bottom: .3em;
+}
+#firstHeading {
+	padding-top: 0;
+	margin-top: 0;
+	padding-top: 0;
+	margin-bottom: 0.1em;
+	line-height: 1.2em;
+	font-size: 1.6em;
+	padding-bottom: 0;
+}
+
+#content a.external, #content a.external[href $=".ogg"], #content a.external[href $=".OGG"], #content a.external[href $=".mid"], #content a.external[href $=".MID"], #content a.external[href $=".midi"], #content a.external[href $=".MIDI"], #content a.external[href $=".mp3"], #content a.external[href $=".MP3"], #content a.external[href $=".wav"], #content a.external[href $=".WAV"], #content a.external[href $=".wma"], #content a.external[href $=".WMA"], .link-audio {
+ /*background: url("images/audio-icon.png?2") center right no-repeat;*/
+ padding: 0 13px 0 0;
+}
+#content a.external[href $=".ogm"], #content a.external[href $=".OGM"], #content a.external[href $=".avi"], #content a.external[href $=".AVI"], #content a.external[href $=".mpeg"], #content a.external[href $=".MPEG"], #content a.external[href $=".mpg"], #content a.external[href $=".MPG"], .link-video {
+ /*background: url("images/video-icon.png?2") center right no-repeat;*/
+ padding: 0 13px 0 0;
+}
+#content a.external[href $=".pdf"], #content a.external[href $=".PDF"], #content a.external[href *=".pdf#"], #content a.external[href *=".PDF#"], #content a.external[href *=".pdf?"], #content a.external[href *=".PDF?"], .link-document {
+ /*background: url("images/document-icon.png?2") center right no-repeat;*/
+ padding: 0 13px 0 0;
+}
+/* Interwiki Styling  (Disabled) */
+#content a.extiw, #content a.extiw:active {
+	color: #36b;
+	background: none;
+	padding: 0;
+}
+#content a.external {
+	color: #36b;
+}
+#content .printfooter {
+	display: none;
+}
+/* Icon for Usernames */
+#pt-userpage, #pt-anonuserpage, #pt-login {
+	/*background: url(images/user-icon.png?1) left top no-repeat;*/
+	padding-left: 15px !important;
+	text-transform: none;
+}
+.toccolours {
+	border: 1px solid #666;
+	background-color: #f9f9f9;
+	padding: 5px;
+	font-size: 95%;
+}
+#bodyContent {
+	position: relative;
+	width: 100%;
+}
+#mw-js-message {
+	font-size: 0.8em;
+}
+div#bodyContent {
+	line-height: 1.5em;
+}
+/* Watch/Unwatch Icon Styling */
+#ca-unwatch.icon, #ca-watch.icon {
+	margin-right:1px;
+}
+#ca-unwatch.icon a, #ca-watch.icon a {
+	margin: 0;
+	padding: 0;
+	outline: none;
+	display: block;
+	width: 26px;
+	height: 2.5em;
+}
+#ca-unwatch.icon a {
+	/*background-image: url(images/watch-icons.png?1);*/
+	background-position: -43px 60%;
+}
+#ca-watch.icon a {
+	/*background-image: url(images/watch-icons.png?1);*/
+	background-position: 5px 60%;
+}
+#ca-unwatch.icon a:hover {
+	/*background-image: url(images/watch-icons.png?1);*/
+	background-position: -67px 60%;
+}
+#ca-watch.icon a:hover {
+	/*background-image: url(images/watch-icons.png?1);*/
+	background-position: -19px 60%;
+}
+#ca-unwatch.icon a.loading, #ca-watch.icon a.loading {
+	/*background-image: url(images/watch-icon-loading.gif?1);*/
+	background-position: center 60%;
+}
+#ca-unwatch.icon a span, #ca-watch.icon a span {
+	display: none;
+}
+div.vectorTabs ul {
+	/*background-image:url(images/tab-break.png?1);*/
+	background-position:right bottom;
+	background-repeat:no-repeat;
+}
+/*boton para ocultar menu*/
+.boton2 {
+	font-size:12px;
+	font-family:sans-serif;
+	color:#084B8A;
+	background-color: #f9f9f9;
+	border:0px;
+	width:55px;
+	height:17px;
+	cursor: pointer;
+	
+}
+
+.tablaResponsiva{
+        width: 80%;      
+}
+
+

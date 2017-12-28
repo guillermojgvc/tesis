@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es" class="no-js">
+  <head>
+  	<meta charset="utf-8"/>
+  	<title>Visor OPTISESA</title>
+  	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <meta content="" name="Sistema de cálculo de rutas óptimas para los servicios de salud"/>
+    <meta content="" name="Jhonathan Vaca"/>
+    <link rel="icon" sizes="192x192" href="img/mobile/launcher.png">
+
+    <link rel="stylesheet" href="css/normalize.min.css">
+    <link href="js/plugins/bootstrap-multiselect/css/bootstrap-multiselect.css" rel="stylesheet" type="text/css"/>
+    <link href="css/kendo.common.min.css" rel="stylesheet" type="text/css"/>
+    <link href="css/kendo.default.min.css" rel="stylesheet" type="text/css"/>    
+    <link href="css/kendo.silver.min.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript" src="http://186.101.170.100:8081/optisesa_ws/rest/ws_optisesa/layers/2?var=capasIniciales"></script>
+	
+  	<!-- External lib: ExtJS -->
+  	<link rel="stylesheet" type="text/css" href="css/ext-all.css"/>
+  	<script type="text/javascript" src="js/vendor/ext/ext-base.js"></script>
+  	<script type="text/javascript" src="js/vendor/ext/ext-all.js"></script>
+    
+  	<!-- External lib: OpenLayers -->
+  	<link rel="stylesheet" type="text/css" href="js/vendor/openlayers/theme/default/style.css"/>
+  	<script type="text/javascript" src="js/vendor/openlayers/OpenLayers.js"></script>
+
+  	<!-- External lib: GeoExt 1.0 -->
+  	<script type="text/javascript" src="js/vendor/geoext/GeoExt.js"></script>
+
+  	<!-- External lib: geoext-viewer -->
+
+    <link rel="stylesheet" type="text/css" href="css/default_heron.css"/>
+    <link rel="stylesheet" type="text/css" href="css/statusbar.css" />
+    <link rel="stylesheet" type="text/css" href="css/WMSBrowser.css"/>
+      
+  	<link rel="stylesheet" type="text/css" href="css/custom.css"/>
+
+  	<script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js" ></script>
+  	<script type="text/javascript" src="js/vendor/ext/Ext.ux.util.js"></script>
+  	<script type="text/javascript" src="js/vendor/ext/Ext.ux.PanelCollapsedTitle.js"></script>
+  	<!-- External lib: Proj4JS (reproject lib) -->
+  	<script type="text/javascript" src="js/vendor/proj4js/lib/proj4js-compressed.js"></script>
+  	<script type="text/javascript" src="js/vendor/proj4js/lib/proj4js.js"></script>
+    <script type="text/javascript" src="js/vendor/proj4js/lib/defs/EPSG32717.js"></script>
+    <script type="text/javascript" src="js/vendor/proj4js/lib/defs/EPSG900913.js"></script>
+  	<script type="text/javascript" src="js/vendor/heron/DisplayProjectionSelectorCombo.js"></script>
+  	<script type="text/javascript" src="js/vendor/heron/lib/GeoExt.ux/WMSBrowser.js"></script>
+  	<script type="text/javascript" src="js/vendor/ext/Ext.ux.grid.Search.js"></script>
+  	<script type="text/javascript" src="js/vendor/ext/locale/ext-lang-es.js"></script>
+  	
+  	<script type="text/javascript" src="js/vendor/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="js/plugins/jquery-ui/jquery.number.min.js"></script>
+  	<script type="text/javascript" src="js/plugins/bootstrap/js/bootstrap.min.js"></script>
+  	<script type="text/javascript" src="js/plugins/bootstrap-multiselect/js/bootstrap-multiselect.js"></script>
+  	<script type="text/javascript" src="js/vendor/kendo.all.min.js" ></script>
+    <script type="text/javascript" src="js/culture/kendo.culture.es-EC.min.js" ></script>
+    
+    <!-- Script and css resources for printpreview ux -->
+  	<script type="text/javascript" src="js/vendor/ux/printpreview/lib/GeoExt.ux/PrintPreview.js"></script>
+  	<script type="text/javascript" src="js/vendor/ux/printpreview/lib/locale/PrintPreview-es.js"></script>
+  	<link rel="stylesheet" type="text/css" href="js/vendor/ux/printpreview/resources/css/printpreview.css" />
+    <link rel="stylesheet" type="text/css" href="js/vendor/ux/filterrow/FilterRow.css"/>
+    <script type="text/javascript" src="js/vendor/ux/filterrow/FilterRow.js"></script>
+    <link rel="stylesheet" type="text/css" href="js/vendor/ux/gridfilters/css/GridFilters.css" />
+    <link rel="stylesheet" type="text/css" href="js/vendor/ux/gridfilters/css/RangeMenu.css" />
+    <script type="text/javascript" src="js/vendor/ux/filterrow/SearchNumberRange.js"></script>
+    <script type="text/javascript" src="js/vendor/AnimatedCluster.js"></script>
+  	<script type="text/javascript" src="js/vendor/heron/es_ES.js"></script>
+  	<script type="text/javascript" src="js/vendor/heron/Heron.js"></script>
+  	
+
+  	<script type="text/javascript" src="js/optisesa/app.js"></script>
+    <script type="text/javascript" src="js/optisesa/openlayersExcoUtil.js"></script>
+  	<script type="text/javascript" src="js/optisesa/controlador.componentes.ss.js"></script>
+  	<script type="text/javascript" src="js/optisesa/config.ss.js"></script>
+	<script type="text/javascript" src="js/vendor/jquery.printPage.js"></script>
+	<script type="text/javascript" src="js/optisesa/websocket.js"></script>
+	<script type="text/javascript" src="js/optisesa/ready.js"></script>
+  </head>
+  <body>
+    <div class="ajaxLoading" id="ajaxLoading"></div>
+    <div id="logo-header">
+        <!-- BEGIN LOGO (you can use logo image instead of text)-->
+        <img  id="logoimg" src="img/logo_uce.png" style="width:75px !important;" alt="Logo UCE"/>
+        <!-- END LOGO -->
+    </div>
+    <div id="title-header" style="text-align: right;height: 85px;vertical-align: middle;display: table-cell;">
+      <h1>Prototipo para optimización tiempos de respuesta a los servicios de salud ambulatorios</h1>
+      <h3>OPTISESA</h3>
+    </div>
+     <div id="logo-sistema">
+        <!-- BEGIN LOGO (you can use logo image instead of text)-->
+        <img  id="logosis" src="img/logo_sistema.png" alt="Logo Sistema"/>
+        <!-- END LOGO -->
+    </div>
+    <div id="window_servicios">
+        <ul id="panelbar_servicios">
+            <li class="k-state-active">
+	            <div id="formulario">
+					<table id="tformulario">
+					  <tr>
+					    <td colspan=5>Nombre:</td>
+					    <td><input type="text" id="er_nombre" name="Nombre" value="nombre"></td>
+					  </tr>
+					  <tr>
+					    <td colspan=5>Genero:</td>
+					    <td><div id="er_genero"><input type="radio" name="sex" value="masculino">Masculino <input type="radio" name="sex" value="fenemino">Femenino</div></td>
+					  </tr>
+					  <tr>
+					    <td colspan=5>Descripción del evento:</td>
+					    <td><textarea rows="4" cols="40"></textarea></td>
+					  </tr>
+					  <tr>
+					    <td colspan=5>Observaciones:</td>
+					    <td><textarea rows="4" cols="40"></textarea></td>
+					  </tr>
+					  <tr>
+					    <td colspan=5>Longitud:</td>
+					    <td><input readonly="readonly" id="er_lon" type="text" name="longitud" value=""></td>
+					  </tr>
+					  <tr>
+					    <td colspan=5>Latitud:</td>
+					    <td><input readonly="readonly" id="er_lat" type="text" name="latitud" value=""></td>
+					  </tr>
+					  <tr>
+					    <td colspan=5>Enviar unidad ambulatoria:</td>
+					    <td><input id="er_unidad" type="checkbox" name="ambulancia" value="ambulancia"><br></td>
+					  </tr>
+					</table>
+					<input type="submit" value="Guardar" id="botonGuardar">
+				</div>
+				<div id="panelUnidades" style="width:100%;visibility: hidden;"><br><input type="submit" value="Asignar" id="asignarUnidad"></div>
+                <div id="panelRegSoc" style="width:100%;padding-bottom: 10px !important;"></div>
+                <div id="panelOfertaSoc" style="width:100%;"></div>
+            </li>
+        </ul>                       
+    </div>
+    <div id="legendMapear"></div>
+    <script id="templatePanelServ" type="text/x-kendo-template">
+                <img src="img/img_panel_busquedas.png" alt="Panel de Servicios" />
+            </script> 
+  	<script>
+      jQuery(document).ready(function() { 
+        App.init();
+      });
+    </script>
+  </body>
+</html>

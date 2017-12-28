@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="optisesa_tesisEAR">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="optisesa_web.war" deploy-path="/" handle="module:/resource/optisesa_web/optisesa_web">
+            <dependent-object>Module_1429799566635</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="optisesa_ws.war" deploy-path="/" handle="module:/resource/optisesa_ws/optisesa_ws">
+            <dependent-object>Module_1429799807089</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

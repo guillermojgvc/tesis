@@ -1,0 +1,1577 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"st",
+				"stopLoading"
+			],
+			[
+				"cod",
+				"cod_circ_1"
+			],
+			[
+				"dpa",
+				"dpa_parroq"
+			],
+			[
+				"style",
+				"styleZoomUniTer"
+			],
+			[
+				"ext",
+				"extring"
+			],
+			[
+				"data",
+				"dataItem"
+			],
+			[
+				"inde",
+				"indexCol"
+			],
+			[
+				"do",
+				"docentes"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cont",
+				"contentEl"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"filtr",
+				"filtroValue"
+			],
+			[
+				"whe",
+				"whereD"
+			],
+			[
+				"na",
+				"nameactivelayer"
+			],
+			[
+				"fiel",
+				"fieldD"
+			],
+			[
+				"pro",
+				"provincia"
+			],
+			[
+				"fie",
+				"fieldD"
+			],
+			[
+				"p_nm",
+				"p_nmg_distrito"
+			],
+			[
+				"p_nmg",
+				"p_nmg_zona"
+			],
+			[
+				"p_dpa",
+				"p_dpa_canton"
+			],
+			[
+				"nom",
+				"nombreCapa"
+			],
+			[
+				"fil",
+				"filtroValue"
+			],
+			[
+				"fe",
+				"featureType"
+			],
+			[
+				"layer",
+				"layerWMS"
+			],
+			[
+				"op",
+				"openLayersExcoUtil"
+			],
+			[
+				"no",
+				"nombreCapa"
+			],
+			[
+				"Ser",
+				"ServO"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"valuen",
+				"valueNT"
+			],
+			[
+				"valu",
+				"valueNT"
+			],
+			[
+				"va",
+				"valueNT"
+			],
+			[
+				"nam",
+				"nameNT"
+			],
+			[
+				"sel",
+				"selnmg"
+			],
+			[
+				"sub",
+				"substring"
+			],
+			[
+				"on",
+				"onChangeNMG"
+			],
+			[
+				"onChangeN",
+				"onChangeNMG"
+			],
+			[
+				"app",
+				"App"
+			],
+			[
+				"pre",
+				"prepend	.prepend"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"codi",
+				"codigoAhi"
+			],
+			[
+				"ti",
+				"titleAhi"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"col",
+				"columnGrid"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"to",
+				"toggle	.toggle() (show/hide)"
+			],
+			[
+				"coll",
+				"collapsed"
+			],
+			[
+				"la",
+				"layerPanel"
+			],
+			[
+				"H",
+				"Humanos"
+			],
+			[
+				"A",
+				"Asentamientos"
+			],
+			[
+				"remo",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"max",
+				"maxExtent"
+			],
+			[
+				"add",
+				"addLayer"
+			],
+			[
+				"ma",
+				"map	$.map()"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"ahi",
+				"ahiPanel"
+			],
+			[
+				"grid",
+				"gridBuscadorAhi"
+			],
+			[
+				"zo",
+				"zoomControl"
+			],
+			[
+				"cre",
+				"createMap"
+			],
+			[
+				"map",
+				"mapPanel"
+			],
+			[
+				"win",
+				"winWMS"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"con",
+				"contentEl"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"so",
+				"south"
+			],
+			[
+				"ea",
+				"east"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"canton",
+				"cantones"
+			],
+			[
+				"jso",
+				"jsonp"
+			],
+			[
+				"dat",
+				"dataType"
+			],
+			[
+				"car",
+				"cargraCombosProvinciaE"
+			],
+			[
+				"ite",
+				"clickItemUniTerr"
+			],
+			[
+				"au",
+				"auxExt"
+			],
+			[
+				"en",
+				"enable"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"Fil",
+				"filtroAvanzado"
+			],
+			[
+				"winf",
+				"winFA"
+			],
+			[
+				"filtro",
+				"filtroAvanzado"
+			],
+			[
+				"t",
+				"toggle	.toggle() (show/hide)"
+			],
+			[
+				"filter",
+				"filters"
+			],
+			[
+				"btn",
+				"btn_wbuffer"
+			],
+			[
+				"w",
+				"wBuffer"
+			],
+			[
+				"onCloseb",
+				"onCloseBuffer"
+			],
+			[
+				"dis",
+				"distrito"
+			],
+			[
+				"ca",
+				"canton"
+			],
+			[
+				"ofer",
+				"ofer01"
+			],
+			[
+				"de",
+				"dema03"
+			],
+			[
+				"dem",
+				"dema02"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"aux",
+				"auxExt1"
+			],
+			[
+				"exte",
+				"extentItem"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"da",
+				"dataItem"
+			],
+			[
+				"sele",
+				"selectedRows"
+			],
+			[
+				"provin",
+				"provincias"
+			],
+			[
+				"zoo",
+				"Zoom"
+			],
+			[
+				"habi",
+				"habilitarNivelTerr"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"for",
+				"formatoN"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"num",
+				"numdecimales"
+			],
+			[
+				"value",
+				"valueVarAnio"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"seri",
+				"seriesArr"
+			],
+			[
+				"ch",
+				"chart"
+			],
+			[
+				"arr",
+				"arrayNTAux"
+			],
+			[
+				"ani",
+				"anio"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"LE",
+				"length"
+			],
+			[
+				"json",
+				"jsonData"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"shor",
+				"shortSeries"
+			],
+			[
+				"sho",
+				"shortSeries"
+			],
+			[
+				"cat",
+				"catch"
+			],
+			[
+				"min",
+				"minValue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.ss.html",
+			"settings":
+			{
+				"buffer_size": 14593,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/mcds/config.ss.js",
+			"settings":
+			{
+				"buffer_size": 30480,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/mcds/controlador.componentes.ss.js",
+			"settings":
+			{
+				"buffer_size": 38477,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/mcds/openlayersExcoUtil.js",
+			"settings":
+			{
+				"buffer_size": 4740,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7089,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/mcds/config.js",
+			"settings":
+			{
+				"buffer_size": 34684,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/mcds/app.js",
+			"settings":
+			{
+				"buffer_size": 4744,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/mcds/controlador.componentes.js",
+			"settings":
+			{
+				"buffer_size": 2141,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/custom.css",
+			"settings":
+			{
+				"buffer_size": 15418,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/vendor/heron/es_ES.js",
+			"settings":
+			{
+				"buffer_size": 11049,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/plugins/glyphicons/css/glyphicons.css",
+			"settings":
+			{
+				"buffer_size": 53019,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/plugins/bootstrap/css/bootstrap.min.css",
+			"settings":
+			{
+				"buffer_size": 99961,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/ext-all.css",
+			"settings":
+			{
+				"buffer_size": 115797,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"svn",
+				"Preferences: SVN Settings"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/proj4js/lib/defs/EPSG900913.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/proj4js/lib/defs/EPSG32717.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/proj4js/lib/defs/EPSG900913.txt",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/proj4js/lib/defs/GOOGLE.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/proj4js/lib/defs/EPSG4326.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/ext/locale/ext-lang-es.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/mcds/config.ss.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/mcds/app.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/heron/Heron.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/heron/es_ES.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/ux/printpreview/lib/locale/PrintPreview-es.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/index2.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/openlayersExcoUtil.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/Heron.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/Visor Modificaciones/index.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/Visor Modificaciones/viewport_ahi.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/css/ext-all.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/css/xtheme-gray.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/mcds/grid_json.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/mcds/viewport_ahi.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/config/Config.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/mcds/controlador.componentes.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/Visor Modificaciones/controlador.componentes.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/index3.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/config/Options.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/config/Layout.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/heron/lib/GeoExt.ux/widgets/WMSBrowser.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/proj4js/lib/proj4js.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/index.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/index4.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/heron/lib/GeoExt.ux/WMSBrowser.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/heron/lib/GeoExt.ux/widgets/WMSBrowserStatusBar.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/heron/lib/GeoExt.ux/widgets/tree/WMSBrowserRootNode.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/es_ES.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/DisplayProjectionSelectorCombo.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/proj4js/lib/defs/SR-ORG-13.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/heron/lib/GeoExt.ux/widgets/tree/WMSBrowserTreePanel.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/heron/lib/GeoExt.ux/widgets/grid/WMSBrowserGridPanel.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/config/Config2.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/proj4js/lib/defs/EPSG32717.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/proj4js/lib/proj4js.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/proj4js/lib/defs/EPSG4139.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/proj4js/lib/defs/EPSG102067.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/mcds/loader.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/lo.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/LayerOpacity.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/tree.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/tree.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/mcds/viewport.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/GeoExt.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/OpenLayers-2.13.1/lib/OpenLayers/Control/LayerSwitcher.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/css/mbExtruder.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/assets/ahi.json",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/datos.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/metronic202/admin/template/ui_buttons.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/OpenLayers-2.13.1/OpenLayers.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/ext/src/ux/grid/FiltersFeature.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/assets/ahi2.json",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/OpenLayers-2.13.1/theme/default/style.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/css/style-metronic.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/grid_json.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/layout.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/loader.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/jquery-1.10.2.min.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/css/easyui/easyui.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/css/easyui/icon.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/css/style.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/css/kendo.common.min.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/css/kendo.default.min.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/vendor/kendo.all.min.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/assets/ahi.json.php",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/main.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/openlayersExcoUtil1.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/opelayersExcoUtil.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/js/mcds/arcgisConfig.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/page_contacts.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/layout_blank_page.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/indexr.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/indexb.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/css/main.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/visormcds/index (2).html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/tematicaGrid - copia.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/charts.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/grouped-categories.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/kendo.all.min.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/tematicaComponentes - copia.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/GeometriasJson.php",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/plugins/gmaps.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/plugins/bootstrap/css/bootstrap.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/css/style-metro.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/server/MsSqlConexion.php",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/plugins/bootstrap/css/bootstrap-responsive.css",
+		"/C/Users/EXCO/AppData/Local/Opera/Opera/temporary_downloads/geoserver-GetFeature.application",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/opelayersExcoUtil.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/server/exporttopng.php",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/server/exporttoexcel.php",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/tematica.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/tematicaComponentes.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/tematicaElementosGrid.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/tematicaPrincipal.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/tematicaGrid.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/css/style.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/server/GeometriasJson.php",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/geografica.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/index.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/index.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/publicaciones.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ec/gob/mec/visor/publicacion.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/geografica.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/app.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/publicaciones2.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/openlayers.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/plugins/jquery.cookie.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/plugins/jquery.string.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/ui-tree.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/page_blog.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/page_blog_item.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/css/style-responsive.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/css/themes/light.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/ec/gob/mec/visor/scripts/tematicaComponentes.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/ec/gob/mec/visor/scripts/tematicaGrid.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/ec/gob/mec/visor/scripts/tematicaPrincipal.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/scripts/geografica.js",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/ec/gob/mec/visor/server/MsSqlConexion.php",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/ec/gob/mec/visor/server/GeometriasJson.php",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/assets/fonts/font.css",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/ui_buttons.html",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/sierepo/page_news.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.*",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.js",
+			".js",
+			"",
+			"*.css",
+			"*.js",
+			"*.*",
+			"*.css",
+			"",
+			"*.css",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.*",
+			"*.css",
+			"*.*",
+			"*.css",
+			"*.js",
+			"*.css",
+			"",
+			"*.css",
+			"*.*",
+			"*.js",
+			"",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"",
+			"*.css",
+			"",
+			"*.css",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.css",
+			"*.js",
+			"",
+			"*.css",
+			"*.js",
+			"",
+			"*.css",
+			"",
+			"*.css",
+			"",
+			"*.css",
+			"",
+			"*.css",
+			"",
+			"*.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"servo",
+			"serv",
+			"browserOptions",
+			"nameactivelayer",
+			"sel_demanda",
+			"graficar",
+			"300px",
+			"filtroA",
+			"legendMapear",
+			"periodo",
+			"esperando",
+			"servicio",
+			"stylem",
+			"switch",
+			"servo",
+			"servvo",
+			"gridBuscadorAhi",
+			"seldpa",
+			".x-form-field",
+			".ext-strict .x-form-text",
+			"tipo",
+			"search",
+			"glyphicon-search",
+			"servo",
+			":8080",
+			"servo",
+			"onzoo",
+			"cls",
+			"Ext.get",
+			"getc",
+			"servo",
+			"dataSourceFuente",
+			"[i]",
+			"ServO",
+			"clic",
+			"limpiar",
+			"activar",
+			"get_deman",
+			"get_ofer",
+			"ServO",
+			"Serv",
+			"prepe",
+			"periodo",
+			"map",
+			"MapeoDemanda",
+			"nameactivelayer",
+			"graficaIndicador",
+			"ServicioREST",
+			"graficaIndicador",
+			"Ext.get",
+			"$('#p_dpa_provincia').data(\"kendoDropDownList\").value()",
+			"switch",
+			"selected",
+			"switch",
+			"nombre",
+			"display",
+			"graficaIndicador",
+			"get_de",
+			"get",
+			";              ",
+			"BUSQUEDA",
+			"fieldNt",
+			"so",
+			"searchPanelConfig2",
+			"$(\"#seldpa\")",
+			"activarChecked",
+			"periodo",
+			"limpiar",
+			"luego",
+			"createTargetLayerCombo",
+			"get_deman",
+			"sistema",
+			"coordenadas",
+			"enter",
+			"utm",
+			"map_currentMapProjection",
+			"sistema",
+			"EGSA 87",
+			"map_setCoordinates_projection",
+			"map",
+			"map_SetCoordinates",
+			"map_SetCoordinates ",
+			"map_ctrls_projection_systemsArr",
+			"map_ctrls_projection_systemsArr ",
+			"map",
+			"\";\n",
+			"map_Point_GetCoordinates_tooltip",
+			"map_Point_GetCoordinates_tooltip ",
+			"Coordinates",
+			"cantones",
+			"k-header",
+			"filtro",
+			"sliderOnChange",
+			"clickItemUniTerr",
+			"Irregulares",
+			"bus",
+			"rest/hello",
+			"contenedorCarousel",
+			"rest/hello",
+			"\"",
+			"contenedorCarousel",
+			"container",
+			"thumbnavigator",
+			"fancybox",
+			"print",
+			"tbar",
+			"geoserver",
+			"scale",
+			"_SlideshowTransitions",
+			"460",
+			"clickItem",
+			"Ã­",
+			"Loading print",
+			"datos de impresi",
+			"pdf.png",
+			"norma",
+			"periodo",
+			"images",
+			"png",
+			"225px",
+			"456px",
+			"800px",
+			"conte",
+			"../",
+			"../img",
+			"contenedoCarousel",
+			"ahiPanel",
+			"XYZ"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Coordenadas",
+			"rest/mcds",
+			"'",
+			"img",
+			"Heron.App.map",
+			"../assets/elements",
+			"extent",
+			"ZONA",
+			"zona",
+			"zona_des",
+			"extent",
+			"190.155.200.146",
+			"192.168.1.125",
+			"190.155.200.146",
+			"192.168.1.125",
+			"192.168.24.128",
+			",",
+			"",
+			"*localDataSourceFilterFuenteAnioAnioDPAVarCruNT.c_multip",
+			"",
+			" ",
+			"./assets/scripts/ec/gob/mec/visor/server/",
+			"'Open Sans'",
+			"'Open Sans','Open Sans IE'",
+			"Helvetica",
+			"items",
+			"id",
+			"''",
+			"$",
+			"../img/fancybox/",
+			"../img/fancybox"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.ss.html",
+					"settings":
+					{
+						"buffer_size": 14593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5229,
+								5400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 855.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/mcds/config.ss.js",
+					"settings":
+					{
+						"buffer_size": 30480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								410,
+								410
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/mcds/controlador.componentes.ss.js",
+					"settings":
+					{
+						"buffer_size": 38477,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										4490,
+										4490
+									],
+									[
+										13297,
+										13297
+									],
+									[
+										33340,
+										33340
+									],
+									[
+										34012,
+										34012
+									]
+								],
+								"scope": "bookmarks"
+							},
+							"mark":
+							{
+								"flags": 144,
+								"icon": "dot",
+								"regions":
+								[
+								],
+								"scope": "mark"
+							}
+						},
+						"selection":
+						[
+							[
+								24072,
+								24099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7037.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/mcds/openlayersExcoUtil.js",
+					"settings":
+					{
+						"buffer_size": 4740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 7089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5732,
+								5739
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 945.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/mcds/config.js",
+					"settings":
+					{
+						"buffer_size": 34684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27963,
+								27977
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10652.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/mcds/app.js",
+					"settings":
+					{
+						"buffer_size": 4744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "js/mcds/controlador.componentes.js",
+					"settings":
+					{
+						"buffer_size": 2141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1472,
+								1472
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "css/custom.css",
+					"settings":
+					{
+						"buffer_size": 15418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3195,
+								3195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1982.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "js/vendor/heron/es_ES.js",
+					"settings":
+					{
+						"buffer_size": 11049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2543,
+								2554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 662.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "js/plugins/glyphicons/css/glyphicons.css",
+					"settings":
+					{
+						"buffer_size": 53019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26097,
+								26097
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 20747.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "js/plugins/bootstrap/css/bootstrap.min.css",
+					"settings":
+					{
+						"buffer_size": 99961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "css/ext-all.css",
+					"settings":
+					{
+						"buffer_size": 115797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85559,
+								85559
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 593908.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"contro",
+				"visor/js/ec/gob/senplades/visor/estadistica/controlador.principal.js"
+			],
+			[
+				"ec/gob",
+				"visor/js/ec/gob/senplades/visor/estadistica/controlador.buttons.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/EXCO/Downloads/HTML 5/Curso Práctico de HTML5 Bextlan/web/Projecto-prueba.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true
+}

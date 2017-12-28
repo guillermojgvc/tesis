@@ -1,0 +1,101 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+
+<body>
+	<meta charset="utf-8">
+	<title>HelloWorld Web sockets</title>
+	<script language="javascript" type="text/javascript">
+            var wsUri = getRootUri() + "/optisesa_ws/wss_optisesa";
+ 
+            function getRootUri() {
+                return "ws://" + (document.location.hostname == "" ? "localhost" : document.location.hostname) + ":" +
+                        (document.location.port == "" ? "8080" : document.location.port);
+            }
+
+            function conectar(){
+            		websocket = new WebSocket(wsUri);
+                }
+ 
+            function init() {
+                output = document.getElementById("output");
+            }
+ 
+            function send_message() {
+ 				if(typeof websocket != 'undefined'){
+ 	 				switch(websocket.readyState){
+ 	 				case 1: 
+ 	 					break;
+ 	 				case 0:
+ 	 				case 2: 
+ 	 				case 3: 
+ 	 	 				conectar();
+ 	 	 				break;
+ 	 				}
+ 					
+ 	 				}else{
+ 	 	 				conectar();
+ 	 	 				}
+ 				doSend(textID.value);
+                websocket.onopen = function(evt) {
+                    onOpen(evt)
+                };
+                websocket.onmessage = function(evt) {
+                    onMessage(evt)
+                };
+                websocket.onerror = function(evt) {
+                    onError(evt)
+                };
+ 
+            }
+ 
+            function onOpen(evt) {
+                writeToScreen("Conectado al Servidor!");
+                doSend(textID.value);
+ 
+            }
+ 
+            function onMessage(evt) {
+                writeToScreen("Mensaje Recibido: " + evt.data);
+            }
+ 
+            function onError(evt) {
+                writeToScreen('<span style="color: red;">ERROR:</span> ' + evt.data);
+            }
+ 
+            function doSend(message) {
+                writeToScreen("Mensaje Enviado: " + message);
+                websocket.send(message);
+                
+            }
+ 
+            function writeToScreen(message) {
+                var pre = document.createElement("p");
+                pre.style.wordWrap = "break-word";
+                pre.innerHTML = message;
+                  
+                output.appendChild(pre);
+            }
+ 
+            window.addEventListener("load", init, false);
+ 
+        </script>
+
+	<h1 style="text-align: center;">
+		Cliente de prueba websockets
+		</h2>
+
+		<br>
+
+		<div style="text-align: center;">
+			<form action="">
+				<input onclick="send_message()" value="Conectar" type="button">
+				<input onclick="send_message()" value="Enviar" type="button">
+				<input id="textID" name="message" value="Hola WebSocket!"
+					type="text"><br>
+			</form>
+		</div>
+		<div id="output"></div>
+</body>
+</html>
